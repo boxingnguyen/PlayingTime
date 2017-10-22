@@ -1,0 +1,257 @@
+{2017/10/21 23:48:07} RaspiMJPEG Version 5.8.06
+{2017/10/21 23:48:07} recommended video buffer size 65536
+{2017/10/21 23:48:07} h264 size set to 131072
+{2017/10/21 23:48:07} recommended video buffers 1
+{2017/10/21 23:48:07} h264 buffers set to recommended 1
+{2017/10/21 23:48:07} Opening FIFO 0 /var/www/html/FIFO 6
+{2017/10/21 23:48:07} Opening FIFO 1 /var/www/html/FIFO11 7
+{2017/10/21 23:48:07} MJPEG streaming, ready to receive commands
+{2017/10/21 23:48:07} send smd 9
+[2017/10/22 00:48:08] RaspiCam support started
+[2017/10/22 00:48:08] Capture Pipe already exists /var/www/html/FIFO1
+[2017/10/22 00:48:08] Scheduler loop is started
+{2017/10/21 23:48:08} Starting command loop
+[2017/10/22 00:48:08] Reload parameters command requested
+[2017/10/22 00:48:08] Scheduler loop is started
+[2017/10/22 00:48:09] New period detected 0
+[2017/10/22 00:48:09] Scheduled management tasks. Next at 1508658489
+[2017/10/22 00:48:28] Logged in user::
+[2017/10/22 00:48:28] UserLevel 6
+{2017/10/21 23:49:06} Stream halted
+[2017/10/22 00:51:12] Logged in user::
+[2017/10/22 00:51:12] UserLevel 6
+[2017/10/22 00:51:23] Logged in user::
+[2017/10/22 00:51:23] UserLevel 6
+[2017/10/22 00:51:26] Logged in user::
+[2017/10/22 00:51:26] UserLevel 6
+{2017/10/21 23:52:21} SIGINT/SIGTERM received, stopping
+{2017/10/21 23:52:22} RaspiMJPEG Version 5.8.06
+{2017/10/21 23:52:22} recommended video buffer size 65536
+{2017/10/21 23:52:22} h264 size set to 131072
+{2017/10/21 23:52:22} recommended video buffers 1
+{2017/10/21 23:52:22} h264 buffers set to recommended 1
+{2017/10/21 23:52:22} Opening FIFO 0 /var/www/html/FIFO 7
+{2017/10/21 23:52:22} Opening FIFO 1 /var/www/html/FIFO11 8
+{2017/10/21 23:52:22} MJPEG streaming, ready to receive commands
+{2017/10/21 23:52:22} send smd 9
+[2017/10/22 00:52:23] RaspiCam support started
+[2017/10/22 00:52:23] Capture Pipe already exists /var/www/html/FIFO1
+{2017/10/21 23:52:23} Starting command loop
+[2017/10/22 00:52:23] Scheduler loop is started
+[2017/10/22 00:52:23] Reload parameters command requested
+[2017/10/22 00:52:23] Scheduler loop is started
+[2017/10/22 00:52:24] New period detected 0
+[2017/10/22 00:52:24] Scheduled management tasks. Next at 1508658744
+[2017/10/22 00:52:26] Logged in user::
+[2017/10/22 00:52:26] UserLevel 6
+[2017/10/22 00:53:30] Logged in user::
+[2017/10/22 00:53:30] UserLevel 6
+[2017/10/22 00:53:37] Logged in user::
+[2017/10/22 00:53:38] UserLevel 6
+[2017/10/22 00:53:38] Logged in user::
+[2017/10/22 00:53:38] UserLevel 6
+[2017/10/22 00:54:00] Logged in user::
+[2017/10/22 00:54:00] UserLevel 6
+[2017/10/22 00:54:02] Logged in user::
+[2017/10/22 00:54:02] UserLevel 6
+[2017/10/22 00:57:13] Logged in user::
+[2017/10/22 00:57:13] UserLevel 6
+[2017/10/22 00:58:28] Logged in user::
+[2017/10/22 00:58:28] UserLevel 6
+[2017/10/22 01:01:39] Logged in user::
+[2017/10/22 01:01:39] UserLevel 6
+[2017/10/22 01:02:32] Logged in user::
+[2017/10/22 01:02:32] UserLevel 6
+[2017/10/22 01:08:30] Logged in user::
+[2017/10/22 01:08:30] UserLevel 6
+[2017/10/22 01:10:08] Logged in user::
+[2017/10/22 01:10:08] UserLevel 6
+[2017/10/22 01:10:43] Logged in user::
+[2017/10/22 01:10:43] UserLevel 6
+[2017/10/22 01:13:04] Logged in user::
+[2017/10/22 01:13:04] UserLevel 6
+[2017/10/22 01:13:20] Logged in user::
+[2017/10/22 01:13:20] UserLevel 6
+[2017/10/22 01:14:28] Logged in user::
+[2017/10/22 01:14:28] UserLevel 6
+[2017/10/22 01:16:04] Logged in user::
+[2017/10/22 01:16:04] UserLevel 6
+[2017/10/22 01:16:24] Logged in user::
+[2017/10/22 01:16:24] UserLevel 6
+[2017/10/22 01:16:48] Logged in user::
+[2017/10/22 01:16:48] UserLevel 6
+[2017/10/22 01:17:12] Logged in user::
+[2017/10/22 01:17:12] UserLevel 6
+[2017/10/22 01:18:45] Logged in user::
+[2017/10/22 01:18:45] UserLevel 6
+[2017/10/22 01:20:50] Logged in user::
+[2017/10/22 01:20:50] UserLevel 6
+[2017/10/22 01:21:14] Logged in user::
+[2017/10/22 01:21:14] UserLevel 6
+[2017/10/22 01:21:29] Logged in user::
+[2017/10/22 01:21:29] UserLevel 6
+[2017/10/22 01:21:49] Logged in user::
+[2017/10/22 01:21:49] UserLevel 6
+[2017/10/22 01:22:16] Logged in user::
+[2017/10/22 01:22:16] UserLevel 6
+[2017/10/22 01:24:34] Logged in user::
+[2017/10/22 01:24:34] UserLevel 6
+[2017/10/22 01:27:00] Logged in user::
+[2017/10/22 01:27:00] UserLevel 6
+[2017/10/22 01:27:11] Logged in user::
+[2017/10/22 01:27:11] UserLevel 6
+{2017/10/22 00:27:15} External motion detection started
+{2017/10/22 00:27:16} recommended video buffer size 65536
+{2017/10/22 00:27:16} h264 size set to 131072
+{2017/10/22 00:27:16} recommended video buffers 1
+{2017/10/22 00:27:16} h264 buffers set to recommended 1
+[2017/10/22 01:27:22] Start capture requested from Pipe
+[2017/10/22 01:27:22] Send ca 1
+{2017/10/22 00:27:23} Capturing started
+[2017/10/22 01:27:33] Stop capture requested
+[2017/10/22 01:27:33] Send ca 0
+{2017/10/22 00:27:33} Capturing stopped
+{2017/10/22 00:27:33} Add /var/www/html/media/vi_0000_20171022_002723.mp4 to Box Queue at pos 0
+{2017/10/22 00:27:34} Start boxing /var/www/html/media/vi_0000_20171022_002723.h264 to /var/www/html/media/vi_0000_20171022_002723.mp4 Queue pos 0
+{2017/10/22 00:27:36} Finished boxing /var/www/html/media/vi_0000_20171022_002723.mp4 from Box Queue at pos 0
+{2017/10/22 00:27:36} Removed item from Box Queue
+[2017/10/22 01:27:42] Start capture requested from Pipe
+[2017/10/22 01:27:42] Send ca 1
+{2017/10/22 00:27:43} Capturing started
+[2017/10/22 01:27:56] Stop capture requested
+[2017/10/22 01:27:56] Send ca 0
+{2017/10/22 00:27:56} Capturing stopped
+{2017/10/22 00:27:56} Add /var/www/html/media/vi_0001_20171022_002743.mp4 to Box Queue at pos 1
+{2017/10/22 00:27:56} Start boxing /var/www/html/media/vi_0001_20171022_002743.h264 to /var/www/html/media/vi_0001_20171022_002743.mp4 Queue pos 1
+[2017/10/22 01:27:58] Start capture requested from Pipe
+[2017/10/22 01:28:00] Send ca 1
+{2017/10/22 00:27:58} Finished boxing /var/www/html/media/vi_0001_20171022_002743.mp4 from Box Queue at pos 1
+{2017/10/22 00:28:00} Removed item from Box Queue
+{2017/10/22 00:28:00} Capturing started
+[2017/10/22 01:28:04] Stop capture requested
+[2017/10/22 01:28:04] Send ca 0
+{2017/10/22 00:28:04} Capturing stopped
+{2017/10/22 00:28:04} Add /var/www/html/media/vi_0002_20171022_002800.mp4 to Box Queue at pos 2
+{2017/10/22 00:28:04} Start boxing /var/www/html/media/vi_0002_20171022_002800.h264 to /var/www/html/media/vi_0002_20171022_002800.mp4 Queue pos 2
+{2017/10/22 00:28:05} Finished boxing /var/www/html/media/vi_0002_20171022_002800.mp4 from Box Queue at pos 2
+{2017/10/22 00:28:05} Removed item from Box Queue
+[2017/10/22 01:28:06] Start capture requested from Pipe
+[2017/10/22 01:28:06] Send ca 1
+{2017/10/22 00:28:06} Capturing started
+[2017/10/22 01:28:08] Stop capture requested
+[2017/10/22 01:28:08] Send ca 0
+{2017/10/22 00:28:08} Capturing stopped
+{2017/10/22 00:28:08} Add /var/www/html/media/vi_0003_20171022_002806.mp4 to Box Queue at pos 3
+{2017/10/22 00:28:09} Start boxing /var/www/html/media/vi_0003_20171022_002806.h264 to /var/www/html/media/vi_0003_20171022_002806.mp4 Queue pos 3
+{2017/10/22 00:28:10} Finished boxing /var/www/html/media/vi_0003_20171022_002806.mp4 from Box Queue at pos 3
+{2017/10/22 00:28:10} Removed item from Box Queue
+{2017/10/22 00:28:12} External motion detection stopped
+[2017/10/22 01:28:12] Stop capture request ignored, already stopped
+{2017/10/22 00:28:12} recommended video buffer size 65536
+{2017/10/22 00:28:12} h264 size set to 131072
+{2017/10/22 00:28:12} recommended video buffers 1
+{2017/10/22 00:28:12} h264 buffers set to recommended 1
+[2017/10/22 01:30:44] Logged in user::
+[2017/10/22 01:30:45] UserLevel 6
+[2017/10/22 01:37:50] Logged in user::
+[2017/10/22 01:37:50] UserLevel 6
+[2017/10/22 01:38:41] Logged in user::
+[2017/10/22 01:38:41] UserLevel 6
+[2017/10/22 01:40:34] Logged in user::
+[2017/10/22 01:40:34] UserLevel 6
+[2017/10/22 01:40:47] Logged in user::
+[2017/10/22 01:40:47] UserLevel 6
+[2017/10/22 01:40:54] Logged in user::
+[2017/10/22 01:40:54] UserLevel 6
+[2017/10/22 01:42:18] Logged in user::
+[2017/10/22 01:42:18] UserLevel 6
+[2017/10/22 01:48:14] Logged in user::
+[2017/10/22 01:48:14] UserLevel 6
+[2017/10/22 01:48:52] Logged in user::
+[2017/10/22 01:48:52] UserLevel 6
+[2017/10/22 01:49:14] Logged in user::
+[2017/10/22 01:49:14] UserLevel 6
+[2017/10/22 01:51:19] Logged in user::
+[2017/10/22 01:51:19] UserLevel 6
+[2017/10/22 01:52:06] Logged in user::
+[2017/10/22 01:52:06] UserLevel 6
+[2017/10/22 01:52:25] Scheduled management tasks. Next at 1508662345
+[2017/10/22 01:52:39] Logged in user::
+[2017/10/22 01:52:39] UserLevel 6
+[2017/10/22 01:52:45] Logged in user::
+[2017/10/22 01:52:45] UserLevel 6
+{2017/10/22 00:53:14} Stream halted
+{2017/10/22 00:53:19} recommended video buffer size 65536
+{2017/10/22 00:53:19} h264 size set to 131072
+{2017/10/22 00:53:19} recommended video buffers 1
+{2017/10/22 00:53:19} h264 buffers set to recommended 1
+{2017/10/22 00:53:19} Stream continued
+[2017/10/22 01:55:18] Logged in user::
+[2017/10/22 01:55:18] UserLevel 6
+[2017/10/22 01:56:37] Logged in user::
+[2017/10/22 01:56:37] UserLevel 6
+[2017/10/22 01:56:53] Logged in user::
+[2017/10/22 01:56:53] UserLevel 6
+[2017/10/22 01:57:11] Logged in user::
+[2017/10/22 01:57:11] UserLevel 6
+[2017/10/22 01:59:20] Logged in user::
+[2017/10/22 01:59:20] UserLevel 6
+[2017/10/22 02:01:29] Logged in user::
+[2017/10/22 02:01:29] UserLevel 6
+[2017/10/22 02:02:45] Logged in user::
+[2017/10/22 02:02:45] UserLevel 6
+[2017/10/22 02:06:42] Logged in user::
+[2017/10/22 02:06:42] UserLevel 6
+[2017/10/22 02:07:12] Logged in user::
+[2017/10/22 02:07:12] UserLevel 6
+[2017/10/22 02:09:16] Logged in user::
+[2017/10/22 02:09:16] UserLevel 6
+[2017/10/22 02:09:28] Logged in user::
+[2017/10/22 02:09:28] UserLevel 6
+[2017/10/22 02:09:31] Logged in user::
+[2017/10/22 02:09:31] UserLevel 6
+[2017/10/22 02:10:01] Logged in user::
+[2017/10/22 02:10:01] UserLevel 6
+[2017/10/22 02:10:17] Logged in user::
+[2017/10/22 02:10:17] UserLevel 6
+[2017/10/22 02:10:40] Logged in user::
+[2017/10/22 02:10:40] UserLevel 6
+{2017/10/22 01:10:57} Stream halted
+{2017/10/22 01:21:11} recommended video buffer size 65536
+{2017/10/22 01:21:11} h264 size set to 131072
+{2017/10/22 01:21:11} recommended video buffers 1
+{2017/10/22 01:21:11} h264 buffers set to recommended 1
+{2017/10/22 01:21:11} Stream continued
+{2017/10/22 01:21:41} SIGINT/SIGTERM received, stopping
+[2017/10/22 02:30:59] Logged in user::
+[2017/10/22 02:30:59] UserLevel 6
+{2017/10/22 01:31:08} RaspiMJPEG Version 5.8.06
+{2017/10/22 01:31:08} Error: Could not enable camera
+{2017/10/22 01:31:08} Executing macro /var/www/html/macros/error_hard.sh "Could not enable camera"  
+[2017/10/22 02:31:09] RaspiCam support started
+[2017/10/22 02:31:09] Capture Pipe already exists /var/www/html/FIFO1
+[2017/10/22 02:31:09] Scheduler loop is started
+[2017/10/22 02:31:10] New period detected 0
+[2017/10/22 02:31:10] Scheduled management tasks. Next at 1508664670
+{2017/10/22 01:31:13} RaspiMJPEG Version 5.8.06
+{2017/10/22 01:31:13} Error: Could not enable camera
+{2017/10/22 01:31:13} Executing macro /var/www/html/macros/error_hard.sh "Could not enable camera"  
+{2017/10/22 01:31:18} RaspiMJPEG Version 5.8.06
+{2017/10/22 01:31:18} Error: Could not enable camera
+{2017/10/22 01:31:18} Executing macro /var/www/html/macros/error_hard.sh "Could not enable camera"  
+{2017/10/22 01:31:23} RaspiMJPEG Version 5.8.06
+{2017/10/22 01:31:23} recommended video buffer size 65536
+{2017/10/22 01:31:23} h264 size set to 131072
+{2017/10/22 01:31:23} recommended video buffers 1
+{2017/10/22 01:31:23} h264 buffers set to recommended 1
+{2017/10/22 01:31:23} Opening FIFO 0 /var/www/html/FIFO 7
+{2017/10/22 01:31:23} Opening FIFO 1 /var/www/html/FIFO11 8
+{2017/10/22 01:31:23} MJPEG streaming, ready to receive commands
+{2017/10/22 01:31:23} send smd 9
+{2017/10/22 01:31:23} Starting command loop
+[2017/10/22 02:31:23] Reload parameters command requested
+[2017/10/22 02:31:23] Scheduler loop is started
+[2017/10/22 02:31:24] New period detected 0
+[2017/10/22 02:31:24] Scheduled management tasks. Next at 1508664684
+[2017/10/22 03:31:25] Scheduled management tasks. Next at 1508668285
+{2017/10/22 02:34:53} Stream halted
